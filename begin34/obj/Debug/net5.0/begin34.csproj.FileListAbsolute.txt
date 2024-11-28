@@ -1,0 +1,16 @@
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\bin\Debug\net5.0\begin34.exe
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\bin\Debug\net5.0\begin34.deps.json
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\bin\Debug\net5.0\begin34.runtimeconfig.json
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\bin\Debug\net5.0\begin34.runtimeconfig.dev.json
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\bin\Debug\net5.0\begin34.dll
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\bin\Debug\net5.0\ref\begin34.dll
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\bin\Debug\net5.0\begin34.pdb
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\obj\Debug\net5.0\begin34.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\obj\Debug\net5.0\begin34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\obj\Debug\net5.0\begin34.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\obj\Debug\net5.0\begin34.AssemblyInfo.cs
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\obj\Debug\net5.0\begin34.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\obj\Debug\net5.0\begin34.dll
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\obj\Debug\net5.0\ref\begin34.dll
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\obj\Debug\net5.0\begin34.pdb
+C:\Users\LAPTOP\RiderProjects\begin34\begin34\obj\Debug\net5.0\begin34.genruntimeconfig.cache
